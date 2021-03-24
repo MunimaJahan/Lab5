@@ -7,6 +7,7 @@ class Main {
     System.out.println("Hello Processor!");
     
     Processor p = new Processor();
+    //promts the user
     System.out.println("Enter an integer value or enter 'on'/'off' to turn the processor on/off: ");
     Scanner s = new Scanner(System.in);
     while (s.hasNext()) {
