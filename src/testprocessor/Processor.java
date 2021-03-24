@@ -1,6 +1,6 @@
 package testprocessor;
 public class Processor {
-  //processor
+
   private int total;
   private boolean on;
   
