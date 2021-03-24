@@ -17,6 +17,7 @@ Your processor class should work with the loop provided in main. All of your cha
 A sample run of your processor could look like this:
 ```
 Hello Processor!
+Enter an integer value or enter 'on'/'off' to turn the processor on/off: 
  on
 Total is 0
  5
